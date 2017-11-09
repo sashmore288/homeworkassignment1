@@ -1,0 +1,68 @@
+
+h1{
+ 	color: white;
+	background: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	width: 33%;
+	float: left;
+	margin-left: 50px;
+
+
+}
+
+h2{	color: gray;
+	font-size: 14;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: right;
+	padding: 30px;
+
+}
+
+.nav{
+	background: gray;
+	color: teal;
+	background: white;
+	width:33%
+	margin-right:-20px
+	padding: 50;
+	float: right;
+}
+
+/*pink for elements hashtags for ids periods for classes*/
+.about_me{
+	background: gray;
+  float: left;
+  width: 650px;
+  height: 380px;
+  border-bottom: 10px;
+  padding: 20px;
+  margin-left: 100px;
+	  text-align: left;
+}
+
+#bio_img{ 
+  /*float: left;*/
+  
+  height: 200px;
+  padding: 20px;
+  margin-left: 30px;
+}
+
+aside{
+	background:gray;
+	width: 270px;
+	height: 100px;
+	padding: 20px;
+	border-bottom: 10px;
+	text-align:right;
+	float: right;
+}
+
+
+.bird{
+	width: 30%;
+}
+
+footer{
+	float: left;
+}
